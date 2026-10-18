@@ -1,8 +1,6 @@
 #  Offline RL
 
-## Setup
 
-For general setup and Modal instructions, see Homework 1's README.
 
 ## Examples
 
